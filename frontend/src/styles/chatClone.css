@@ -1,0 +1,30 @@
+.response {
+    background-color: black;
+    color: white;
+    margin: 2rem auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 1000px;
+    height: auto;
+}
+
+
+.buttonClick {
+    background-color: greenyellow;
+    color: black;
+
+}
+
+
+.chatLog {
+    border: 1px solid #ccc;
+    padding: 10px;
+    height: 300px;
+    overflow-y: scroll;
+    margin-bottom: 10px;
+    background: #f9f9f9;
+}
+
+input {
+    width: 80%;
+    padding: 8px;
+}
